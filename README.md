@@ -1,6 +1,6 @@
 # Royal AlgoLab
 
-> **Educational / demo use only:** Review code before running it. Use only on files, devices, repositories, and networks you own or are explicitly authorized to access. Use at your own risk; no warranty is provided to the maximum extent permitted by applicable law. This notice does not waive non-waivable legal rights or obligations.\n
+> **Educational / demo use only:** Review code before running it. Use only on files, devices, repositories, and networks you own or are explicitly authorized to access. Use at your own risk; no warranty is provided to the maximum extent permitted by applicable law. This notice does not waive non-waivable legal rights or obligations.
 **Royal AlgoLab** is a local, offline, menu-driven algorithms and data structures laboratory built with standard C++17.
 
 ## Privacy and connectivity
